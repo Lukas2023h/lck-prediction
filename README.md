@@ -29,7 +29,7 @@ lck-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/lck-prediction.git
+git clone git@github.com:Lukas2023h/lck-prediction.git
 cd lck-prediction
 
 # Create and activate virtual environment
