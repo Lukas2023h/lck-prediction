@@ -6,7 +6,6 @@ A machine learning model that predicts the winner of LCK (League of Legends Cham
 
 The model uses historical team stats (win rate, gold difference at 15 minutes, objective control, vision, etc.) to predict which team wins a given matchup. It is trained on game-by-game data from OraclesElixir covering the 2026 LCK season (Cup + Rounds 1-2).
 
-**Current accuracy: ~73%** on held-out test data using Logistic Regression.
 
 ## Project Structure
 
